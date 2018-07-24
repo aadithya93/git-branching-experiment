@@ -1,1 +1,3 @@
 Creating new file to add functionality for feature 1
+
+Additional functionality for feature 1
