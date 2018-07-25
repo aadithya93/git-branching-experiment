@@ -6,3 +6,4 @@ Trying git branching strategies
   - Releasing feature 1
   - Releasing awesome feature 2
   - Releasing feature 3
+  - Releasing feature 4
